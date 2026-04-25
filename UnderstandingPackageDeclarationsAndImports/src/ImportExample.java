@@ -5,4 +5,5 @@ public class ImportExample {
         Random r = new Random(); //DOES NOT COMPILE
         System.out.println(r.nextInt(10));
     }
+
 }
