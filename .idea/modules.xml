@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/DeclaringAndInitializingVariables/DeclaringAndInitializingVariables.iml" filepath="$PROJECT_DIR$/Chapter1/DeclaringAndInitializingVariables/DeclaringAndInitializingVariables.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/UnderstandingPackageDeclarationsAndImports/UnderstandingPackageDeclarationsAndImports.iml" filepath="$PROJECT_DIR$/Chapter1/UnderstandingPackageDeclarationsAndImports/UnderstandingPackageDeclarationsAndImports.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/UnderstandingTheJavaClassStructure/UnderstandingTheJavaClassStructure.iml" filepath="$PROJECT_DIR$/Chapter1/UnderstandingTheJavaClassStructure/UnderstandingTheJavaClassStructure.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Chapter1/WritingAMainMethod/WritingAMainMethod.iml" filepath="$PROJECT_DIR$/Chapter1/WritingAMainMethod/WritingAMainMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java_course.iml" filepath="$PROJECT_DIR$/.idea/java_course.iml" />
+    </modules>
+  </component>
+</project>
