@@ -6,7 +6,7 @@ public class SwitchSample {
             for(char x = 'a'; x <= 'c'; x++){
                 if(a==2 || x== 'b')
                     continue FIRST_CHAR_LOOP;
-                System.out.println(" " + a + x);
+                System.out.print(" " + a + x);
             }
         }
     }
